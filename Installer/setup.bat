@@ -1,4 +1,4 @@
 @echo off
 color b
-title Installing Modules Made by Quarz :)
+title Installing Modules 
 pip install -r requirements.txt
