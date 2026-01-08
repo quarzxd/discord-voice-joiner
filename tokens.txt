@@ -1,0 +1,3 @@
+# EXAMPLE
+token:guildid:channelid:mute:deaf:stream:cam
+TOKEN:19418918194841:952898159819148:true:true:false:false
