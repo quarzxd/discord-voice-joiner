@@ -161,7 +161,7 @@ def voice_joiner():
             
             if reconnect_attempts < max_reconnect_attempts:
                 reconnect_attempts += 1
-                wait_time = min(2 ** reconnect_attempts, 60
+                wait_time = min(2 ** reconnect_attempts, 60)
                 time.sleep(wait_time)
                 connect_voice(config, index)
         
